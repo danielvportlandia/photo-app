@@ -23,6 +23,12 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'stripe'
+# Image uploads
+gem 'carrierwave'
+# Image resizing
+gem 'mini_magick'
+# Images in Production
+gem 'fog'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
