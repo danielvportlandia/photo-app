@@ -184,3 +184,9 @@ Afterwards, Production should be updated and is ready to view
 ```console
 heroku open
 ```
+
+Initialize SendGrid for Heroku app. After running this command generate an API key in the SendGrid dashboard under Settings which will then be saved to our credentials file and uploaded to Heroku.
+
+```console
+heroku addons:create sendgrid:starter
+```
