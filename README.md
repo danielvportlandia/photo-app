@@ -127,6 +127,12 @@ rails g resource UserStock user:references stock:references
 
 &nbsp;
 
+## Testing
+
+### Stripe
+
+Use "4242424242424242" as the test credit card number wth any cvc and future expiration date. For more Test card numbers (e.g. Master, Visa, etc.) check out [Stripe Testing Docs](https://stripe.com/docs/testing).
+
 ## Production
 
 Ensure that a production DB is in place. Add this to your Gemfile:
