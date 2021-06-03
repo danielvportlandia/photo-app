@@ -1,6 +1,6 @@
 # PHOTO APP
 
-This is the photo-app application from the Complete Ruby on Rails Developer course. Click the link to see it in action [Photo App]().
+This is the photo-app application from the Complete Ruby on Rails Developer course. Click the link to see it in action [Photo App](https://photo-app-0624.herokuapp.com/).
 
 ## Versions
 
